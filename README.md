@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a **full-stack engineer** based in Mexico (UTC−6). For the past 5+ years I've been building web, mobile, and cloud apps that real people use every day.
 
-These days I spend most of my time on AI features that work with real-world documents and data: chat, OCR, and review tools, including ones that run on local models. I also enjoy going down to the hardware side (firmware, circuits, connected devices), so I can take a product from the screen all the way to the device.
+These days I spend most of my time on AI features, integrating them in web and mobile apps. I also enjoy going down to the hardware side (firmware, circuits, connected devices), so I can take a project from the screen all the way to the device.
 
 ---
 
